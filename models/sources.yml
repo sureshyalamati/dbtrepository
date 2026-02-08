@@ -1,0 +1,13 @@
+sources:
+  - name: src1
+    database: dev_db
+    schema: dev_schema
+    tables:
+      - name: customer
+      - name: nation
+  - name: src2
+    database: dev_db
+    schema: sales_schema
+    tables:
+      - name: customer
+      - name: nation
