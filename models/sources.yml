@@ -4,6 +4,7 @@ sources:
     schema: dev_schema
     tables:
       - name: customer
+      - name: emp_info
       - name: nation
   - name: src2
     database: dev_db
